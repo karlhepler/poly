@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poly", "poly\poly.vcproj", "{616E3404-7597-41A0-BFE5-5F52916E6157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616E3404-7597-41A0-BFE5-5F52916E6157}.Debug|Win32.ActiveCfg = Debug|Win32
+		{616E3404-7597-41A0-BFE5-5F52916E6157}.Debug|Win32.Build.0 = Debug|Win32
+		{616E3404-7597-41A0-BFE5-5F52916E6157}.Release|Win32.ActiveCfg = Release|Win32
+		{616E3404-7597-41A0-BFE5-5F52916E6157}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
